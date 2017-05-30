@@ -1,0 +1,12 @@
+c:\Users\Asus.Asus-ПК\Documents\Visual Studio 2015\Projects\Алгоритмы и структуры данных\AandDS_Lab_3\AandDS_Lab_3\bin\Debug\AandDS_Lab_3.exe.config
+C:\Users\Asus.Asus-ПК\Documents\Visual Studio 2015\Projects\Алгоритмы и структуры данных\AandDS_Lab_3\AandDS_Lab_3\bin\Debug\AandDS_Lab_3.exe
+C:\Users\Asus.Asus-ПК\Documents\Visual Studio 2015\Projects\Алгоритмы и структуры данных\AandDS_Lab_3\AandDS_Lab_3\bin\Debug\AandDS_Lab_3.pdb
+C:\Users\Asus.Asus-ПК\Documents\Visual Studio 2015\Projects\Алгоритмы и структуры данных\AandDS_Lab_3\AandDS_Lab_3\obj\Debug\AandDS_Lab_3.csprojResolveAssemblyReference.cache
+C:\Users\Asus.Asus-ПК\Documents\Visual Studio 2015\Projects\Алгоритмы и структуры данных\AandDS_Lab_3\AandDS_Lab_3\obj\Debug\AandDS_Lab_3.exe
+C:\Users\Asus.Asus-ПК\Documents\Visual Studio 2015\Projects\Алгоритмы и структуры данных\AandDS_Lab_3\AandDS_Lab_3\obj\Debug\AandDS_Lab_3.pdb
+C:\Users\Paul\Desktop\Алгоритмы и структуры данных\AandDS_Lab_3\AandDS_Lab_3\bin\Debug\AandDS_Lab_3.exe.config
+C:\Users\Paul\Desktop\Алгоритмы и структуры данных\AandDS_Lab_3\AandDS_Lab_3\obj\Debug\AandDS_Lab_3.exe
+C:\Users\Paul\Desktop\Алгоритмы и структуры данных\AandDS_Lab_3\AandDS_Lab_3\obj\Debug\AandDS_Lab_3.pdb
+C:\Users\Paul\Desktop\Алгоритмы и структуры данных\AandDS_Lab_3\AandDS_Lab_3\bin\Debug\AandDS_Lab_3.exe
+C:\Users\Paul\Desktop\Алгоритмы и структуры данных\AandDS_Lab_3\AandDS_Lab_3\bin\Debug\AandDS_Lab_3.pdb
+C:\Users\Paul\Desktop\Алгоритмы и структуры данных\AandDS_Lab_3\AandDS_Lab_3\obj\Debug\AandDS_Lab_3.csprojResolveAssemblyReference.cache

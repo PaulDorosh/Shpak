@@ -1,0 +1,18 @@
+c:\Users\Asus.Asus-ПК\Documents\Visual Studio 2015\Projects\Алгоритмы и структуры данных\AandDS_Lab_4\AandDS_Lab_4\bin\Debug\AandDS_Lab_4.exe.config
+c:\Users\Asus.Asus-ПК\Documents\Visual Studio 2015\Projects\Алгоритмы и структуры данных\AandDS_Lab_4\AandDS_Lab_4\bin\Debug\AandDS_Lab_4.exe
+c:\Users\Asus.Asus-ПК\Documents\Visual Studio 2015\Projects\Алгоритмы и структуры данных\AandDS_Lab_4\AandDS_Lab_4\bin\Debug\AandDS_Lab_4.pdb
+c:\Users\Asus.Asus-ПК\Documents\Visual Studio 2015\Projects\Алгоритмы и структуры данных\AandDS_Lab_4\AandDS_Lab_4\obj\Debug\AandDS_Lab_4.csprojResolveAssemblyReference.cache
+c:\Users\Asus.Asus-ПК\Documents\Visual Studio 2015\Projects\Алгоритмы и структуры данных\AandDS_Lab_4\AandDS_Lab_4\obj\Debug\AandDS_Lab_4.exe
+c:\Users\Asus.Asus-ПК\Documents\Visual Studio 2015\Projects\Алгоритмы и структуры данных\AandDS_Lab_4\AandDS_Lab_4\obj\Debug\AandDS_Lab_4.pdb
+D:\Павел\Documents\Visual Studio 2015\Projects\Алгоритмы и структуры данных\AandDS_Lab_4\AandDS_Lab_4\bin\Debug\AandDS_Lab_4.exe.config
+D:\Павел\Documents\Visual Studio 2015\Projects\Алгоритмы и структуры данных\AandDS_Lab_4\AandDS_Lab_4\bin\Debug\AandDS_Lab_4.exe
+D:\Павел\Documents\Visual Studio 2015\Projects\Алгоритмы и структуры данных\AandDS_Lab_4\AandDS_Lab_4\bin\Debug\AandDS_Lab_4.pdb
+D:\Павел\Documents\Visual Studio 2015\Projects\Алгоритмы и структуры данных\AandDS_Lab_4\AandDS_Lab_4\obj\Debug\AandDS_Lab_4.csprojResolveAssemblyReference.cache
+D:\Павел\Documents\Visual Studio 2015\Projects\Алгоритмы и структуры данных\AandDS_Lab_4\AandDS_Lab_4\obj\Debug\AandDS_Lab_4.exe
+D:\Павел\Documents\Visual Studio 2015\Projects\Алгоритмы и структуры данных\AandDS_Lab_4\AandDS_Lab_4\obj\Debug\AandDS_Lab_4.pdb
+C:\Users\Paul\Desktop\Алгоритмы и структуры данных\AandDS_Lab_4\AandDS_Lab_4\bin\Debug\AandDS_Lab_4.exe.config
+C:\Users\Paul\Desktop\Алгоритмы и структуры данных\AandDS_Lab_4\AandDS_Lab_4\obj\Debug\AandDS_Lab_4.exe
+C:\Users\Paul\Desktop\Алгоритмы и структуры данных\AandDS_Lab_4\AandDS_Lab_4\obj\Debug\AandDS_Lab_4.pdb
+C:\Users\Paul\Desktop\Алгоритмы и структуры данных\AandDS_Lab_4\AandDS_Lab_4\bin\Debug\AandDS_Lab_4.exe
+C:\Users\Paul\Desktop\Алгоритмы и структуры данных\AandDS_Lab_4\AandDS_Lab_4\bin\Debug\AandDS_Lab_4.pdb
+C:\Users\Paul\Desktop\Алгоритмы и структуры данных\AandDS_Lab_4\AandDS_Lab_4\obj\Debug\AandDS_Lab_4.csprojResolveAssemblyReference.cache
